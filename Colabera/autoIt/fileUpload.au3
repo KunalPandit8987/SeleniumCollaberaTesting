@@ -1,0 +1,6 @@
+Sleep(1000)
+Send("D:\pdf.pdf")
+Sleep(1000)
+Send("{TAB}")
+Send("{TAB}")
+Send("{ENTER}")

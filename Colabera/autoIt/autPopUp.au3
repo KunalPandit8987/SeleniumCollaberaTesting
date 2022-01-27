@@ -1,0 +1,6 @@
+Sleep(1000)
+send("Sumanth")
+send("{TAB}")
+send("abcd1234")
+send("{TAB}")
+send("{ENTER}")
